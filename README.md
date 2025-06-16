@@ -1,5 +1,5 @@
 # End-to-End Real-Time Weather Data Streaming 🌦️
-## Powered by Azure
+## Powered by Azure, Databricks & Fabric
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG43bXIwOWxseDRqN3d4Y253dnZ0enJ1ZGwxemVneGwzOXVpbW1xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRl5VP2IaeInK6OQYc/giphy.gif)
 
